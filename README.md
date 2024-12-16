@@ -142,7 +142,7 @@ src="https://cardivo.vercel.app/api?name=Khyam%20Bot&description=🥂THE%20WORLD
 
 ------------
  
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new-app?template=https://github.com/SILENTLOVER40/SILENT-SOBX-MD)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new-app?template=https://github.com/khyamakbar1/Khyam-Bot)
 
 -----------
 
