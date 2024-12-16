@@ -183,18 +183,10 @@ jobs:
       run: npm start
 ```
 
------------
-
-
-<a><img src='https://i.imghippo.com/files/SY9872yWM.png'/></a>
-
 ------------
 
 `⚛⚛⚛⚛⚛⚛⚛⚛⚛⚛⚛⚛⚛⚛⚛⚛⚛⚛⚛⚛⚛⚛⚛⚛⚛⚛⚛`
 
----------
-
-![IMG-20240330-WA0000](https://github.com/user-attachments/assets/62d3bffd-d1ec-4cb9-a5b1-28b745b90a90)
 
 -------------------
 
