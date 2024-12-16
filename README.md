@@ -1,7 +1,7 @@
 ---------
 
 ### <br>  ❖ KHYAM ❖
-🔰 **`THE WORLD BEST WHATSAPP BOT CREATED BY KHYAM`** 🔰
+🔰 **`WHATSAPP BOT CREATED BY KHYAM      (Credit SilentLOVER)`** 🔰
 
 ----------
 
