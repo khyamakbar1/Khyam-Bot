@@ -1,7 +1,7 @@
 ---------
 
 ### <br>  ❖ KHYAM ❖
-🔰 **`WHATSAPP BOT CREATED BY KHYAM      (Credit SilentLOVER)`** 🔰
+🔰 **`WHATSAPP BOT CREATED BY KHYAM`** 🔰
 
 ----------
 
