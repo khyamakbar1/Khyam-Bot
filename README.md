@@ -123,22 +123,10 @@ src="https://cardivo.vercel.app/api?name=Khyam%20Bot&description=🥂THE%20WORLD
 ----------
 
 <p align="center">
-<a href="https://webpair-mega-2.onrender.com"><img height= "35" title="Author" src="https://img.shields.io/badge/GET SESSION ID-1:-black?style=for-the-badge&logo=render"></a>
-<p/>
-
-----------
-
-
-<p align="center">
-<a href="https://express-pairing-code2-1-hgi2.onrender.com"><img height= "35" title="Author" src="https://img.shields.io/badge/GET SESSION ID-2:-black?style=for-the-badge&logo=render"></a>
-<p/>
-
-----------
-
-
-<p align="center">
-<a href="https://web-pair-1dha.onrender.com"><img height= "35" title="Author" src="https://img.shields.io/badge/GET SESSION ID-3:-black?style=for-the-badge&logo=render"></a>
-<p/>
+  <a href="https://khyam-bot-pair.onrender.com">
+    <img height="35" title="Author" src="https://img.shields.io/badge/GET_SESSION_ID-3:-black?style=for-the-badge&logo=render">
+  </a>
+</p>
 
 ----------
  
