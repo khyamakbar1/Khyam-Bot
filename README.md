@@ -124,7 +124,7 @@ src="https://cardivo.vercel.app/api?name=Khyam%20Bot&description=🥂THE%20WORLD
 
 <p align="center">
   <a href="https://khyam-bot-pair.onrender.com">
-    <img height="35" title="Author" src="https://img.shields.io/badge/GET_SESSION_ID-3:-black?style=for-the-badge&logo=render">
+    <img height="35" title="Author" src="https://img.shields.io/badge/GET_SESSION_ID:-black?style=for-the-badge&logo=render">
   </a>
 </p>
 
